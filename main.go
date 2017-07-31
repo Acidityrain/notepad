@@ -1,5 +1,7 @@
-fackage main
+package main
 
-func main(){
-    println("Hello, World")
+func main() {
+	println("Hello, World")
+	println("Hello, World")
+	println("Hello, World")
 }
