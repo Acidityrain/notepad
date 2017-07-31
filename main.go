@@ -1,4 +1,4 @@
-package main
+fpackage main
 
 func main(){
     println("Heello, World")
