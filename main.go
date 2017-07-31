@@ -1,5 +1,5 @@
-fpackage main
+fackage main
 
 func main(){
-    println("Heello, World")
+    println("Hello, World")
 }
